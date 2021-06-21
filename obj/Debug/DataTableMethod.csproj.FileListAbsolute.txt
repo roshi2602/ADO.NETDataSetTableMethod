@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\ADO.Net\DataTableMethod\bin\Debug\DataTableMethod.exe.config
+C:\Users\lenovo\source\repos\ADO.Net\DataTableMethod\bin\Debug\DataTableMethod.exe
+C:\Users\lenovo\source\repos\ADO.Net\DataTableMethod\bin\Debug\DataTableMethod.pdb
+C:\Users\lenovo\source\repos\ADO.Net\DataTableMethod\obj\Debug\DataTableMethod.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\ADO.Net\DataTableMethod\obj\Debug\DataTableMethod.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\ADO.Net\DataTableMethod\obj\Debug\DataTableMethod.exe
+C:\Users\lenovo\source\repos\ADO.Net\DataTableMethod\obj\Debug\DataTableMethod.pdb
